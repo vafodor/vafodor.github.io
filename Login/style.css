@@ -188,6 +188,7 @@ body {
 
 .center .hands {
 	position: relative;
+	left: 15px;
 }
 
 .center .hands .hand {
