@@ -1,15 +1,15 @@
 # vafodor.github.io
 Portfolio
-Hammaga omad yor bo`lsin.
+Hammaga omad yor bo`lsin. <br>
 
 
-Portfolio - vafodor.github.io/portf/index.html
-Project - vafodor.github.io/project/index.html
-Menu test - vafodor.github.io/menu/index.html
-YouTube Menu Effect - vafodor.github.io/youtube/index.html
+Portfolio - vafodor.github.io/portf/index.html <br>
+Project - vafodor.github.io/project/index.html <br>
+Menu test - vafodor.github.io/menu/index.html <br>
+YouTube Menu Effect - vafodor.github.io/youtube/index.html <br>
 
 --------
-Durdona Portfolio - vafodor.github.io/durdon/index.html
+Durdona Portfolio - vafodor.github.io/durdon/index.html <br>
 --------
 
 
