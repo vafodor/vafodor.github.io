@@ -9,7 +9,7 @@ Menu test - vafodor.github.io/menu/index.html <br>
 YouTube Menu Effect - vafodor.github.io/youtube/index.html <br>
 
 --------
-Durdona Portfolio - vafodor.github.io/durdon/index.html <br>
+Durdona Portfolio - vafodor.github.io/durdona/index.html <br>
 --------
 
 
