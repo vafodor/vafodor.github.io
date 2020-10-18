@@ -384,7 +384,7 @@ ul.social-icons li a {
 
 @media screen and (max-width: 568px) {
     .app-text li {
-        font-size: 25px;
+        font-size: 50px;
     }
     h2 {
         margin-left: 30px;
@@ -429,7 +429,7 @@ ul.social-icons li a {
         margin-left: 10px;
     }
     .app-text li {
-        font-size: 23px;
+        font-size: 50px;
     }
     .wrapper {
         padding: 0 10px;
@@ -440,6 +440,7 @@ ul.social-icons li a {
     .text {
         font-size: 16px;
     }
+    
 }
 
 @media screen and (max-width: 384px) {
@@ -455,6 +456,9 @@ ul.social-icons li a {
     .newsletter .submit {
         right: 0;
     }
+    .app-text li {
+        font-size: 50px;
+    }
 }
 
 @media screen and (max-width: 375px) {
@@ -468,6 +472,9 @@ ul.social-icons li a {
     .timer {
         font-size: 40px;
     }
+    .app-text li {
+        font-size: 50px;
+    }
 }
 
 @media screen and (max-width: 360px) {
@@ -476,6 +483,9 @@ ul.social-icons li a {
     }
     .clock {
         margin-left: -20px;
+    }
+    .app-text li {
+        font-size: 50px;
     }
 }
 
