@@ -342,7 +342,7 @@ ul.social-icons li a {
         margin-left: 50px;
     }
     .app-text li {
-        font-size: 33px;
+        font-size: 50px;
     }
     .newsletter .email {
         width: 65%;
@@ -360,7 +360,7 @@ ul.social-icons li a {
         /*--w3layouts--*/
     }
     .app-text li {
-        font-size: 30px;
+        font-size: 50px;
     }
     h2 {
         margin-left: 27px;
@@ -379,6 +379,9 @@ ul.social-icons li a {
     }
     h2 {
         margin-left: 20px;
+    }
+    .app-text li {
+        font-size: 50px;
     }
 }
 
@@ -406,6 +409,7 @@ ul.social-icons li a {
     .footer p {
         font-size: 12px;
     }
+    
 }
 
 @media screen and (max-width: 480px) {
@@ -418,6 +422,9 @@ ul.social-icons li a {
     .newsletter .submit {
         right: 5px;
         top: 12px;
+    }
+    .app-text li {
+        font-size: 50px;
     }
 }
 
@@ -440,6 +447,7 @@ ul.social-icons li a {
     .text {
         font-size: 16px;
     }
+    
     
 }
 
